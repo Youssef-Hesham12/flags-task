@@ -1,5 +1,7 @@
 # Feature Flag Management Dashboard
 
+![Feature Flags Dashboard](./public/dashboard.png)
+
 A modern React application for managing feature flags across different environments (Development, Staging, Production). Built with React, TypeScript, Tailwind CSS, and a mock REST API (json server).
 
 ## 🚀 Features
